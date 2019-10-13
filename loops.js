@@ -6,6 +6,8 @@ function forLoop(array){
 
   }
 
+  return array
+
 }
 
 var k=0;
