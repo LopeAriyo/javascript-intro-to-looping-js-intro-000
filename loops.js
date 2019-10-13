@@ -30,7 +30,7 @@ function whileLoop(n){
 
 function doWhileLoop(num){
 var  i=0;
-  
+
 
   do {
     console.log ("I run once regardless.")
@@ -38,4 +38,4 @@ var  i=0;
   }
   while (i<=num);
 
-} 
+}
