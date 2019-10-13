@@ -17,10 +17,13 @@ function forLoop(array){
 
 var k=0;
 
+
 function whileLoop(n){
 
-  while (k<=n) {
-    return(n-k)
+var k = 0
+
+  while (k<n) {
+    console.log(n-k);
     k++
   }
   return("done")
